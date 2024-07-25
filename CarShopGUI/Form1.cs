@@ -1,6 +1,16 @@
 using System;
 using System.Windows.Forms;
 
+
+// Jack Parkison
+// CST-250
+// 07/24/24
+//  I used source code from the Activity 1 guide to complete this assignment: https://halo.gcu.edu/resource/d3d4a8bc-03d7-4893-a791-89c32b56f7d2
+
+
+
+
+
 namespace CarShopGUI
 {
     public partial class Form1 : Form
