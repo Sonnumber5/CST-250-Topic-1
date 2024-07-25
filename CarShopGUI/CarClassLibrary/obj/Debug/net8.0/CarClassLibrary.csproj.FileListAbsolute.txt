@@ -1,0 +1,22 @@
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.deps.json
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\refint\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\CarClassLibrary\CarClassLibrary\obj\Debug\net8.0\ref\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.deps.json
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\bin\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.AssemblyInfo.cs
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\refint\CarClassLibrary.dll
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\CarClassLibrary.pdb
+C:\Users\jackparkison\source\repos\CST-250\Activity\Activity 1\CarShopGUI\CarClassLibrary\obj\Debug\net8.0\ref\CarClassLibrary.dll
